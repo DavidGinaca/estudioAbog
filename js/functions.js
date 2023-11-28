@@ -10,7 +10,7 @@ cambio.addEventListener('change', (event)=>{
         logo.style.color='orange';
     }else{
         logo.innerHTML= '<i class="fa-regular fa-moon"></i>';
-        logo.style.color='grey';
+        logo.style.color='white';
     }
 
 })
